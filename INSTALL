@@ -1,0 +1,9 @@
+Building cypher
+
+See doc/readme-qt.rst for instructions on building cypher QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of cypher.
+
+See doc/build-*.txt for instructions on building cypherd,
+the intended-for-services, no-graphical-interface, reference
+implementation of cypher.
